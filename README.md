@@ -242,21 +242,6 @@ npm run dev
 
 ---
 
-## 👨‍💻 Solo Contributor & Creator
-
-### Y Monish Prasanna
-- **GitHub**: [@YMP7](https://github.com/YMP7)
-- **LinkedIn**: [Monish Prasanna](https://www.linkedin.com/in/yegireddy-monish-prasanna/)
-- **Repository**: [https://github.com/YMP7/AXLERO-SOLUTIONS-PROJECTS](https://github.com/YMP7/AXLERO-SOLUTIONS-PROJECTS)
-
-<div align="center">
-
-### Crafted By ♥  𝕐 𝕄𝕠𝕟𝕚𝕤𝕙 ℙ𝕣𝕒𝕤𝕒𝕟𝕟𝕒
-
-</div>
-
----
-
 <p align="center">
-  <sub>Engineered by <strong>Y Monish Prasanna (YMP7)</strong> • Distributed Systems & Enterprise AI Platforms</sub>
+  <sub>Engineered by <strong>Axlero Solutions Engineering Team</strong> • Distributed Systems & Enterprise AI Platforms</sub>
 </p>
