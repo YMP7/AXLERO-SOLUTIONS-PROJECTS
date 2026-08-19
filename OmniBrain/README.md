@@ -14,9 +14,8 @@ Upload documents, index knowledge, chat with grounded AI, and receive citation-b
 [![AI](https://img.shields.io/badge/AI-LangGraph%20%7C%20OpenAI-111827?style=for-the-badge)](#features)
 [![Docker Ready](https://img.shields.io/badge/Deployment-Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#quick-start)
 
-[![GitHub](https://img.shields.io/badge/GitHub-sunbyte16-181717?style=flat-square&logo=github)](https://github.com/sunbyte16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sunil%20Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-kumar-bb88bb31a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=flat-square&logo=netlify&logoColor=white)](https://lively-dodol-cc397c.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-YMP7-181717?style=flat-square&logo=github)](https://github.com/YMP7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Monish%20Prasanna-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yegireddy-monish-prasanna/)
 
 </div>
 
@@ -274,15 +273,15 @@ For the full roadmap, see `Documents/Phases.md`.
 
 ## Connect With Me
 
-- GitHub: [@sunbyte16](https://github.com/sunbyte16)
-- LinkedIn: [Sunil Sharma](https://www.linkedin.com/in/sunil-kumar-bb88bb31a/)
-- Portfolio: [lively-dodol-cc397c.netlify.app](https://lively-dodol-cc397c.netlify.app)
+### Y Monish Prasanna
+- GitHub: [@YMP7](https://github.com/YMP7)
+- LinkedIn: [Monish Prasanna](https://www.linkedin.com/in/yegireddy-monish-prasanna/)
 
 ## Creator
 
 <div align="center">
 
-### Crafted By ♥  𝕊𝕦𝕟𝕚𝕝 𝕊𝕙𝕒𝕣𝕞𝕒
+### Crafted By ♥  𝕐 𝕄𝕠𝕟𝕚𝕤𝕙 ℙ𝕣𝕒𝕤𝕒𝕟𝕟𝕒
 
 </div>
 

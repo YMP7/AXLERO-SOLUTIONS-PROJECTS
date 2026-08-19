@@ -14,11 +14,8 @@ Decentralized multi-agent reinforcement learning (MAPPO) with 20Hz continuous ph
 [![Avoidance](https://img.shields.io/badge/Avoidance-98.2%25%20Collision%20Free-10B981?style=for-the-badge)](#features)
 [![Deployment](https://img.shields.io/badge/Deployment-Node.js%20Microservice-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#quick-start)
 
-[![GitHub](https://img.shields.io/badge/GitHub-sunbyte16-181717?style=flat-square&logo=github)](https://github.com/sunbyte16)
-[![GitHub](https://img.shields.io/badge/GitHub-ymp7-181717?style=flat-square&logo=github)](https://github.com/ymp7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sunil%20Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-kumar-bb88bb31a/)
+[![GitHub](https://img.shields.io/badge/GitHub-YMP7-181717?style=flat-square&logo=github)](https://github.com/YMP7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Monish%20Prasanna-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yegireddy-monish-prasanna/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=flat-square&logo=netlify&logoColor=white)](https://lively-dodol-cc397c.netlify.app)
 
 </div>
 
@@ -187,22 +184,17 @@ SwarmRL/
 └── README.md
 ```
 
-## Connect With Us
+## Connect With Me
 
-### Sunil Sharma
-- GitHub: [@sunbyte16](https://github.com/sunbyte16)
-- LinkedIn: [Sunil Sharma](https://www.linkedin.com/in/sunil-kumar-bb88bb31a/)
-- Portfolio: [lively-dodol-cc397c.netlify.app](https://lively-dodol-cc397c.netlify.app)
-
-### Monish Prasanna
-- GitHub: [@ymp7](https://github.com/ymp7)
+### Y Monish Prasanna
+- GitHub: [@YMP7](https://github.com/YMP7)
 - LinkedIn: [Monish Prasanna](https://www.linkedin.com/in/yegireddy-monish-prasanna/)
 
-## Creators
+## Creator
 
 <div align="center">
 
-### Crafted By ♥  𝕊𝕦𝕟𝕚𝕝 𝕊𝕙𝕒𝕣𝕞𝕒 & 𝕄𝕠𝕟𝕚𝕤𝕙 ℙ𝕣𝕒𝕤𝕒𝕟𝕟𝕒
+### Crafted By ♥  𝕐 𝕄𝕠𝕟𝕚𝕤𝕙 ℙ𝕣𝕒𝕤𝕒𝕟𝕟𝕒
 
 </div>
 

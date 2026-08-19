@@ -203,12 +203,12 @@ export const SignupForm: React.FC<SignupFormProps> = ({
           <div className="flex flex-col items-center gap-3">
             <div className="flex items-center gap-2 text-white text-sm">
               <span>Created By</span>
-              <span className="font-bold text-cyan-400">𝕊𝕦𝕟𝕚𝕝 𝕊𝕙𝕒𝕣𝕞𝕒</span>
+              <span className="font-bold text-cyan-400">𝕐 𝕄𝕠𝕟𝕚𝕤𝕙 ℙ𝕣𝕒𝕤𝕒𝕟𝕟𝕒</span>
               <Heart className="w-3 h-3 text-red-500 fill-red-500" />
             </div>
             <div className="flex items-center gap-4">
               <a
-                href="https://github.com/sunbyte16"
+                href="https://github.com/YMP7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-1.5 text-slate-400 hover:text-white transition-colors text-xs"
@@ -217,22 +217,13 @@ export const SignupForm: React.FC<SignupFormProps> = ({
                 <span>GitHub</span>
               </a>
               <a
-                href="https://www.linkedin.com/in/sunil-kumar-bb88bb31a/"
+                href="https://www.linkedin.com/in/yegireddy-monish-prasanna/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-1.5 text-slate-400 hover:text-white transition-colors text-xs"
               >
                 <Linkedin className="w-3 h-3" />
                 <span>LinkedIn</span>
-              </a>
-              <a
-                href="https://lively-dodol-cc397c.netlify.app"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-1.5 text-slate-400 hover:text-white transition-colors text-xs"
-              >
-                <ExternalLink className="w-3 h-3" />
-                <span>Portfolio</span>
               </a>
             </div>
           </div>
