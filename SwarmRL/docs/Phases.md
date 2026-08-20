@@ -857,3 +857,67 @@ The project is considered complete when:
 - Documentation is finalized.
 - Version 1.0 is stable and release-ready.
 
+# Project KPIs & Acceptance Metrics
+
+The following measurable targets should be monitored throughout development to evaluate the overall quality, performance, and reliability of the SwarmRL system.
+
+## Simulation Performance
+
+* Support simulation with up to 50 autonomous agents.
+* Maintain stable environment execution without crashes or state corruption.
+* Monitor simulation step performance as the number of agents increases.
+* Track CPU, GPU, and memory usage during training and simulation.
+* Benchmark performance for 10, 25, and 50 agents.
+
+## Reinforcement Learning Performance
+
+* Track average episode reward across training iterations.
+* Track map coverage percentage achieved by trained agents.
+* Track collision rate per episode.
+* Track episode completion rate.
+* Compare trained models against baseline or previous model versions.
+* Store evaluation results for reproducibility.
+
+## System Reliability
+
+* Critical unit and integration tests must pass before release.
+* Training must be recoverable from saved checkpoints.
+* WebSocket connections must recover from temporary disconnections.
+* Invalid actions or unexpected inputs must not corrupt the simulation state.
+* Health checks must confirm that backend services are operational.
+
+## Frontend & Visualization
+
+* Real-time agent state must remain synchronized with the simulation.
+* Dashboard metrics must accurately represent backend data.
+* The application should remain usable at the target swarm scale.
+* Missing or delayed data should be handled gracefully without breaking the user interface.
+
+## Release Acceptance Criteria
+
+SwarmRL Version 1.0 will be considered ready for release when:
+
+* All planned phases are completed.
+* All critical tests pass successfully.
+* No unresolved critical or high-severity bugs remain.
+* The system successfully supports the target agent scale.
+* Training, evaluation, checkpointing, and recovery work correctly.
+* Real-time simulation data is successfully displayed in the frontend.
+* Deployment and restart procedures are verified.
+* Documentation matches the final implementation.
+* A reproducible version of the system can be installed and executed successfully.
+
+## Continuous Improvement
+
+After Version 1.0, future development should focus on:
+
+* Larger swarm sizes.
+* More realistic physics and environmental conditions.
+* Improved training efficiency.
+* Advanced multi-agent algorithms.
+* Additional disaster-response scenarios.
+* Distributed training support.
+* Cloud deployment.
+* Improved monitoring and experiment tracking.
+
+---
