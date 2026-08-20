@@ -899,6 +899,55 @@ Potential risks include:
 
 ---
 
+# Proposed Project Structure
+
+The project should follow a modular structure to maintain separation of concerns and support future scalability.
+
+```text
+SwarmRL/
+│
+├── backend/
+│   ├── app/
+│   │   ├── api/
+│   │   ├── services/
+│   │   ├── websocket/
+│   │   └── main.py
+│   │
+│   └── requirements.txt
+│
+├── environment/
+│   ├── drone_environment.py
+│   ├── agents/
+│   ├── obstacles/
+│   ├── rewards/
+│   └── observations/
+│
+├── training/
+│   ├── mappo/
+│   ├── configs/
+│   ├── train.py
+│   └── evaluate.py
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   └── App.tsx
+│   │
+│   └── package.json
+│
+├── tests/
+│   ├── test_environment.py
+│   ├── test_rewards.py
+│   └── test_agents.py
+│
+├── docs/
+│
+├── docker/
+│
+├── README.md
+└── PRD.md
 # Future Enhancements
 
 - Real-world drone integration.
